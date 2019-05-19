@@ -1,0 +1,229 @@
+Epoch : 0 , Loss : 0.7428006824726859
+Training Accuracy : 75.65447692777835
+Validation Accuracy : 74.23333333333333
+Epoch : 1 , Loss : 0.5544292203461131
+Epoch : 2 , Loss : 0.44788203947246075
+Training Accuracy : 84.76724050117144
+Validation Accuracy : 79.93333333333334
+Epoch : 3 , Loss : 0.37272941616053384
+Epoch : 4 , Loss : 0.3121407867098848
+Training Accuracy : 89.8767444229398
+Validation Accuracy : 82.68333333333334
+Epoch : 5 , Loss : 0.2592308504972607
+Epoch : 6 , Loss : 0.22685866236376265
+Training Accuracy : 92.66578384435164
+Validation Accuracy : 84.16666666666667
+Epoch : 7 , Loss : 0.19222439681955925
+Epoch : 8 , Loss : 0.16961025384565195
+Training Accuracy : 93.08750127330141
+Validation Accuracy : 84.36666666666666
+Epoch : 9 , Loss : 0.14648181778223565
+Epoch : 10 , Loss : 0.13277112929305682
+Training Accuracy : 95.89080167057146
+Validation Accuracy : 86.31666666666666
+Epoch : 11 , Loss : 0.12212557240854949
+Epoch : 12 , Loss : 0.1085558971002077
+Training Accuracy : 94.91494346541714
+Validation Accuracy : 85.56666666666666
+Epoch : 13 , Loss : 0.10202896994693826
+Epoch : 14 , Loss : 0.09298497890510286
+Training Accuracy : 95.95599470306611
+Validation Accuracy : 86.23333333333333
+Epoch : 15 , Loss : 0.08770408208753604
+Epoch : 16 , Loss : 0.08273856109008193
+Training Accuracy : 95.41407762045431
+Validation Accuracy : 85.76666666666667
+Epoch : 17 , Loss : 0.0780417742789723
+Epoch : 18 , Loss : 0.07252540617870788
+Training Accuracy : 96.58755220535805
+Validation Accuracy : 86.96666666666667
+Epoch : 19 , Loss : 0.07013479752155642
+Epoch : 20 , Loss : 0.0675218352698721
+Training Accuracy : 97.43302434552307
+Validation Accuracy : 87.56666666666666
+Epoch : 21 , Loss : 0.06365426466800272
+Epoch : 22 , Loss : 0.057572645416560896
+Training Accuracy : 96.98278496485688
+Validation Accuracy : 86.66666666666667
+Epoch : 23 , Loss : 0.0635161033521096
+Epoch : 24 , Loss : 0.058047138940310106
+Training Accuracy : 97.59193236222879
+Validation Accuracy : 87.31666666666666
+Epoch : 25 , Loss : 0.05416785413399339
+Epoch : 26 , Loss : 0.056317391232975446
+Training Accuracy : 96.9338901904859
+Validation Accuracy : 86.8
+Epoch : 27 , Loss : 0.05174614937277511
+Epoch : 28 , Loss : 0.05181223251565825
+Training Accuracy : 97.57970866863604
+Validation Accuracy : 87.7
+Epoch : 29 , Loss : 0.048866791951392465
+Epoch : 30 , Loss : 0.04882355174049735
+Training Accuracy : 97.2720790465519
+Validation Accuracy : 87.43333333333334
+Epoch : 31 , Loss : 0.04889981885207817
+Epoch : 32 , Loss : 0.05050999650848098
+Training Accuracy : 97.64490170113069
+Validation Accuracy : 87.53333333333333
+Epoch : 33 , Loss : 0.04730047675063057
+Epoch : 34 , Loss : 0.047243546553848624
+Training Accuracy : 97.61434246714883
+Validation Accuracy : 87.98333333333333
+Epoch : 35 , Loss : 0.04287072692629105
+Epoch : 36 , Loss : 0.044882918116248526
+Training Accuracy : 97.11113374758072
+Validation Accuracy : 87.33333333333333
+Epoch : 37 , Loss : 0.04253351992034974
+Epoch : 38 , Loss : 0.044246615861387305
+Training Accuracy : 97.29245186920647
+Validation Accuracy : 87.11666666666666
+Epoch : 39 , Loss : 0.04412574383604806
+Epoch : 40 , Loss : 0.028863029957089264
+Training Accuracy : 98.31313028420088
+Validation Accuracy : 88.78333333333333
+Epoch : 41 , Loss : 0.026083217385651853
+Epoch : 42 , Loss : 0.022912372054027703
+Training Accuracy : 98.18070693694611
+Validation Accuracy : 88.73333333333333
+Epoch : 43 , Loss : 0.020474020168573286
+Epoch : 44 , Loss : 0.022696054773405194
+Training Accuracy : 97.98920240399308
+Validation Accuracy : 88.56666666666666
+Epoch : 45 , Loss : 0.022395344293424085
+Epoch : 46 , Loss : 0.02231196767146078
+Training Accuracy : 98.26627279209535
+Validation Accuracy : 88.75
+Epoch : 47 , Loss : 0.021389898439034976
+Epoch : 48 , Loss : 0.021239690999209415
+Training Accuracy : 98.43944178465927
+Validation Accuracy : 89.11666666666666
+Epoch : 49 , Loss : 0.019439030523547746
+Epoch : 50 , Loss : 0.022906821888075985
+Training Accuracy : 98.59020067230314
+Validation Accuracy : 88.91666666666667
+Epoch : 51 , Loss : 0.02120758295010698
+Epoch : 52 , Loss : 0.020153837991529144
+Training Accuracy : 98.4862992767648
+Validation Accuracy : 89.01666666666667
+Epoch : 53 , Loss : 0.020511704414578464
+Epoch : 54 , Loss : 0.019365499173242522
+Training Accuracy : 98.7042884791688
+Validation Accuracy : 88.85
+Epoch : 55 , Loss : 0.020379346038680524
+Epoch : 56 , Loss : 0.02225521569440995
+Training Accuracy : 98.52093307527758
+Validation Accuracy : 88.38333333333334
+Epoch : 57 , Loss : 0.019759460172887582
+Epoch : 58 , Loss : 0.01951741006632801
+Training Accuracy : 98.4862992767648
+Validation Accuracy : 88.73333333333333
+Epoch : 59 , Loss : 0.019641865525045432
+Epoch : 60 , Loss : 0.019971026049461216
+Training Accuracy : 98.5922379545686
+Validation Accuracy : 88.73333333333333
+Epoch : 61 , Loss : 0.020605745191763464
+Epoch : 62 , Loss : 0.018772149431849055
+Training Accuracy : 98.53723133340124
+Validation Accuracy : 88.73333333333333
+Epoch : 63 , Loss : 0.01872537939683146
+Epoch : 64 , Loss : 0.021184514999428455
+Training Accuracy : 98.51889579301212
+Validation Accuracy : 88.6
+Epoch : 65 , Loss : 0.01745279879469308
+Epoch : 66 , Loss : 0.01886395011388231
+Training Accuracy : 98.4761128654375
+Validation Accuracy : 88.61666666666666
+Epoch : 67 , Loss : 0.018913693842478096
+Epoch : 68 , Loss : 0.01983956032684849
+Training Accuracy : 98.69206478557604
+Validation Accuracy : 89.11666666666666
+Epoch : 69 , Loss : 0.021009604635764845
+Epoch : 70 , Loss : 0.02018280552632253
+Training Accuracy : 98.58612610777223
+Validation Accuracy : 89.53333333333333
+Epoch : 71 , Loss : 0.018097111819467198
+Epoch : 72 , Loss : 0.01808664496881344
+Training Accuracy : 98.35183864724458
+Validation Accuracy : 89.08333333333333
+Epoch : 73 , Loss : 0.018564401856565382
+Epoch : 74 , Loss : 0.017758209537229657
+Training Accuracy : 98.39869613935011
+Validation Accuracy : 88.88333333333334
+Epoch : 75 , Loss : 0.01840867668943247
+Epoch : 76 , Loss : 0.018970659639307996
+Training Accuracy : 98.56779056738311
+Validation Accuracy : 89.06666666666666
+Epoch : 77 , Loss : 0.018514732818099826
+Epoch : 78 , Loss : 0.017760785455417743
+Training Accuracy : 98.54130589793216
+Validation Accuracy : 89.26666666666667
+Epoch : 79 , Loss : 0.01812761630814445
+Epoch : 80 , Loss : 0.014329046668232573
+Training Accuracy : 98.80411531017623
+Validation Accuracy : 89.35
+Epoch : 81 , Loss : 0.012303388482299246
+Epoch : 82 , Loss : 0.011345182439981727
+Training Accuracy : 98.78170520525619
+Validation Accuracy : 89.48333333333333
+Epoch : 83 , Loss : 0.010564637929443657
+Epoch : 84 , Loss : 0.01072207918211158
+Training Accuracy : 98.90394214118366
+Validation Accuracy : 89.5
+Epoch : 85 , Loss : 0.010851034665392945
+Epoch : 86 , Loss : 0.011019991183275124
+Training Accuracy : 98.79189161658348
+Validation Accuracy : 89.53333333333333
+Epoch : 87 , Loss : 0.01062438471368902
+Epoch : 88 , Loss : 0.011586240373920495
+Training Accuracy : 98.94672506875828
+Validation Accuracy : 89.15
+Epoch : 89 , Loss : 0.010920227496778049
+Epoch : 90 , Loss : 0.009846522351532863
+Training Accuracy : 99.03840277070388
+Validation Accuracy : 90.01666666666667
+Epoch : 91 , Loss : 0.01013696557856747
+Epoch : 92 , Loss : 0.010195462273259182
+Training Accuracy : 99.03636548843842
+Validation Accuracy : 89.41666666666667
+Epoch : 93 , Loss : 0.010873133462155238
+Epoch : 94 , Loss : 0.010111780612836204
+Training Accuracy : 99.03432820617296
+Validation Accuracy : 89.78333333333333
+Epoch : 95 , Loss : 0.009807968175058098
+Epoch : 96 , Loss : 0.010638300846039783
+Training Accuracy : 99.02210451258021
+Validation Accuracy : 89.38333333333334
+Epoch : 97 , Loss : 0.009578937274151636
+Epoch : 98 , Loss : 0.010661653618929753
+Training Accuracy : 99.10359580319853
+Validation Accuracy : 89.81666666666666
+Epoch : 99 , Loss : 0.009967727154920189
+Epoch : 100 , Loss : 0.009649787019346453
+Training Accuracy : 99.06896200468574
+Validation Accuracy : 89.65
+Epoch : 101 , Loss : 0.011107476476051184
+Epoch : 102 , Loss : 0.01038071334672471
+Training Accuracy : 98.89579301212183
+Validation Accuracy : 89.68333333333334
+Epoch : 103 , Loss : 0.010594378253396522
+Epoch : 104 , Loss : 0.009130921885419715
+Training Accuracy : 98.84078639095446
+Validation Accuracy : 89.33333333333333
+Epoch : 105 , Loss : 0.011179113166387348
+Epoch : 106 , Loss : 0.010924861788225826
+Training Accuracy : 99.08729754507488
+Validation Accuracy : 89.58333333333333
+Epoch : 107 , Loss : 0.0102587691944791
+Epoch : 108 , Loss : 0.010058488700451562
+Training Accuracy : 99.01599266578384
+Validation Accuracy : 89.83333333333333
+Epoch : 109 , Loss : 0.011111582546921758
+Epoch : 110 , Loss : 0.009946816013931917
+Training Accuracy : 99.20749719873689
+Validation Accuracy : 89.96666666666667
+Epoch : 111 , Loss : 0.01044220357168039
+Epoch : 112 , Loss : 0.009969114499350932
+Training Accuracy : 98.82856269736172
+Validation Accuracy : 89.4
+Epoch : 113 , Loss : 0.009305604345475635
+Epoch : 114 , Loss : 0.00932124344156667
